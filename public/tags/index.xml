@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jacey Breinburg</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Jacey Breinburg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>jaybreinburg@gmail.com (Jacey Breinburg)</managingEditor>
+    <webMaster>jaybreinburg@gmail.com (Jacey Breinburg)</webMaster>
+    <copyright>© 2026 Jacey Breinburg</copyright>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
